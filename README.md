@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PIS4R
-- 👀 I’m interested in coding, math, economics, sailing, and soft skills
-- 🌱 I’m currently learning C language, Java, mssql, some Python🐍
+- 👀 I’m interested in coding, math, economics, and sailing.
 - 📫 How to reach me? Just send dm on ig @pisarsky_m or email via michalpisarski12@gmail.com
 
 <!---
